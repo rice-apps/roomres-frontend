@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-          <p>TESTLINE2</p>
+          <p>TESTLINE</p>
         <ItemList onChange={(e)=> handleInput(e)} name="roomNameInput"/>
       </div>
     );
